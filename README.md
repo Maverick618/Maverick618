@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maverick618
 - 👀 Keep curiosity.
-- 🌱 I’m currently learning C/C++.
+- 🌱 I’m currently learning C/C++, Rust and Coq.
 - 📫 Thanks for your suggestion!
 
 <!---
